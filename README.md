@@ -4,3 +4,4 @@
 - Built trigger 10-10-2023 -GCP cloud
 - Project name: duke-cc-w4-gcp-pdfexercises
 -[link to project](https://duke-cc-w4-gcp-pdfexercise.ew.r.appspot.com/pandas)
+- fully deployable code
